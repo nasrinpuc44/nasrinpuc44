@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=440&lines=Hi+I'm+Nasrin+Sultana+%F0%9F%91%8B;CSE+Student+%F0%9F%93%9D;Web+Developer+%F0%9F%92%BB;Open+Source+Lover+%F0%9F%94%A5](https://i.postimg.cc/rwJfgL0q/Grey-Minimalist-Corporate-Personal-Profile-Linked-In-Banner.png)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=440&lines=Hi+I'm+Nasrin+Sultana+%F0%9F%91%8B;CSE+Student+%F0%9F%93%9D;Web+Developer+%F0%9F%92%BB;Open+Source+Lover+%F0%9F%94%A5" alt="Typing SVG" />
 </p>
 
 <p align="center">
