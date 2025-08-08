@@ -68,7 +68,9 @@
 
 <h2 align="center">📌 Pinned Projects</h2>
 <p align="center">
-
+  <a href="https://github.com/Programming-Hero-Web-Course4/b11a10-client-side-Ebtesham1240">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Programming-Hero-Web-Course4&repo=b11a10-client-side-Ebtesham1240&theme=rose_pine" />
+  </a>
   <a href="https://github.com/nasrinpuc44/StrayHaven-repo">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=nasrinpuc44&repo=StrayHaven-repo&theme=rose_pine" />
   </a>
