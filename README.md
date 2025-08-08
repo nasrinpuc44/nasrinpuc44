@@ -2,8 +2,8 @@
   <img src="https://i.postimg.cc/rwJfgL0q/Grey-Minimalist-Corporate-Personal-Profile-Linked-In-Banner.png" alt="GitHub Banner" width="100%" height="250" />
 </p>
 
-<h1 align="center">👋 Hey there, I'm <b>Nasrin Sultana</b></h1>
-<h3 align="center">💻 CSE Enthusiast | Full-Stack Web Developer | Problem Solver</h3>
+<h1 align="center"> Hey there, I'm <b>Nasrin Sultana</b></h1>
+<h3 align="center">💻 CSE Student | Full-Stack Web Developer | Problem Solver</h3>
 
 <p align="center">
 🚀 Passionate about creating impactful, user-friendly, and scalable web applications.  
