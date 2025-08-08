@@ -10,66 +10,79 @@
 
 ---
 
-## 👩‍💻 Name & Designation
-**Nasrin Sultana**  
-*Computer Science & Engineering Student | Web Developer*
+<h2 align="center">👩‍💻 Name & Designation</h2>
+<p align="center">
+  <b>Nasrin Sultana</b><br>
+  Computer Science & Engineering Student | Web Developer
+</p>
 
 ---
 
-## 💫 About Me
-🌸 Hello! I'm **Nasrin Sultana**, a passionate Computer Science student from Bangladesh who loves turning ideas into beautiful, functional websites.  
-🔧 Currently focused on **Front-end Development** and aiming to become a **Full Stack Developer**.
+<h2 align="center">💫 About Me</h2>
+<p align="center">
+  🌸 Hello! I'm <b>Nasrin Sultana</b>, a passionate Computer Science student from Bangladesh who loves turning ideas into beautiful, functional websites.<br>
+  🔧 Currently focused on <b>Front-end Development</b> and aiming to become a <b>Full Stack Developer</b>.
+</p>
 
 ---
 
-## 📌 Current Activities
-- 🌱 Learning React.js, Firebase, and MongoDB  
-- 💻 Building a tourism website project  
-- 📖 Exploring Next.js  
-- 🤝 Contributing to open-source projects
+<h2 align="center">📌 Current Activities</h2>
+<p align="center">
+  🌱 Learning React.js, Firebase, and MongoDB <br>
+  💻 Building a tourism website project <br>
+  📖 Exploring Next.js <br>
+  🤝 Contributing to open-source projects
+</p>
 
 ---
 
-## 🛠️ My Skills
+<h2 align="center">🛠️ My Skills</h2>
 
-### Frontend
-<p>
+<h3 align="center">Frontend</h3>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react" />
 </p>
 
-### Backend
-<p>
+<h3 align="center">Backend</h3>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,mongodb" />
 </p>
 
-### Programming & Tools
-<p>
+<h3 align="center">Programming & Tools</h3>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,git,github,vscode" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+<h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ebtesham1240&show_icons=true&theme=rose_pine" width="47%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebtesham1240&layout=compact&theme=rose_pine" width="47%" />
 </p>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ebtesham1240&theme=rose_pine" width="60%" />
 </p>
 
 ---
 
-## 📌 Pinned Projects
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=ebtesham1240&repo=project1&theme=rose_pine)](https://github.com/ebtesham1240/project1)  
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=ebtesham1240&repo=project2&theme=rose_pine)](https://github.com/ebtesham1240/project2)  
-[![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=ebtesham1240&repo=project3&theme=rose_pine)](https://github.com/ebtesham1240/project3)  
+<h2 align="center">📌 Pinned Projects</h2>
+<p align="center">
+  <a href="https://github.com/ebtesham1240/project1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ebtesham1240&repo=project1&theme=rose_pine" />
+  </a>
+  <a href="https://github.com/ebtesham1240/project2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ebtesham1240&repo=project2&theme=rose_pine" />
+  </a>
+  <a href="https://github.com/ebtesham1240/project3">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ebtesham1240&repo=project3&theme=rose_pine" />
+  </a>
+</p>
 
 ---
 
-## 📫 Let's Connect
-<p>
+<h2 align="center">📫 Let's Connect</h2>
+<p align="center">
   <a href="mailto:snasrin291@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
