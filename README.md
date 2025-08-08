@@ -27,12 +27,12 @@
 ---
 
 <h2 align="center">📌 Current Activities</h2>
-<p align="center">
-  🌱 Learning React.js, Firebase, and MongoDB <br>
-  💻 Building a tourism website project <br>
-  📖 Exploring Next.js <br>
-  🤝 Contributing to open-source projects
-</p>
+<ul align="center">
+  <li>🌱 Learning React.js, Firebase, and MongoDB</li>
+  <li>💻 Building a tourism website project</li>
+  <li>📖 Exploring Next.js</li>
+  <li>🤝 Contributing to open-source projects</li>
+</ul>
 
 ---
 
@@ -68,8 +68,8 @@
 
 <h2 align="center">📌 Pinned Projects</h2>
 <p align="center">
-  <a href="[https://github.com/ebtesham1240/project1](https://github.com/Programming-Hero-Web-Course4/b11a10-client-side-Ebtesham1240)">
-    <img src="[https://github-readme-stats.vercel.app/api/pin/?username=ebtesham1240&repo=project1&theme=rose_pine](https://i.ibb.co.com/27Nj9804/3.png)" />
+  <a href="https://github.com/Programming-Hero-Web-Course4/b11a10-client-side-Ebtesham1240">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Programming-Hero-Web-Course4&repo=b11a10-client-side-Ebtesham1240&theme=rose_pine" />
   </a>
   <a href="https://github.com/ebtesham1240/project2">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ebtesham1240&repo=project2&theme=rose_pine" />
