@@ -27,7 +27,7 @@
 ---
 
 <h2 align="center">📌 Current Activities</h2>
-<ul align="center">
+<ul align="center" style="list-style-type:none;">
   <li>🌱 Learning React.js, Firebase, and MongoDB</li>
   <li>💻 Building a tourism website project</li>
   <li>📖 Exploring Next.js</li>
@@ -71,11 +71,11 @@
   <a href="https://github.com/Programming-Hero-Web-Course4/b11a10-client-side-Ebtesham1240">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Programming-Hero-Web-Course4&repo=b11a10-client-side-Ebtesham1240&theme=rose_pine" />
   </a>
-  <a href="https://github.com/ebtesham1240/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ebtesham1240&repo=project2&theme=rose_pine" />
+  <a href="https://github.com/nasrinpuc44/StrayHaven-repo">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nasrinpuc44&repo=StrayHaven-repo&theme=rose_pine" />
   </a>
-  <a href="https://github.com/ebtesham1240/project3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ebtesham1240&repo=project3&theme=rose_pine" />
+  <a href="https://github.com/nasrinpuc44/LinguaLearn-client">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nasrinpuc44&repo=LinguaLearn-client&theme=rose_pine" />
   </a>
 </p>
 
