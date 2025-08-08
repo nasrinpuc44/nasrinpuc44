@@ -77,6 +77,9 @@
   <a href="https://github.com/nasrinpuc44/LinguaLearn-client">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=nasrinpuc44&repo=LinguaLearn-client&theme=rose_pine" />
   </a>
+  <a href="https://github.com/nasrinpuc44/a10-client">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nasrinpuc44&repo=a10-client&theme=rose_pine" />
+  </a>
 </p>
 
 ---
